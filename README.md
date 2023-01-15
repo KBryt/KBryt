@@ -4,84 +4,31 @@ Hello, my name is Bright, Effah.
 
 # Thanks for stopping by! Welcome to my GitHub Profile! ✨
 
-## <img src="./assets/waving-hand.webp" width="4%"> I'm Bright, a Data Scientist and aspiring data expert in all aspect of Data. <img src="./assets/waving-hand.webp" width="4%">
+<h1 align="center">Hi 👋, I'm Bright Effah</h1>
+<h3 align="center">A passionate TDA, Data Scientist and aspiring data expert from collection to consumption</h3>
 
-<div align="center">
-    <img width="90%" src="./assets/quote1-d.jpeg">
-</div>
+- 🌱 I’m currently advancing my **Software Engineering skills**
 
-📖 Before starting college in August __2018__, I was, _by all means_, a non-tech person growing up without my own computer in a non-wifi room 🤕 I _never_ thought that one day, coding and all those complex technical kinds of stuff I _never_ cared about would dawn on me and eventually become my career down the road 🔮
+- 👨‍💻 All of my projects are available at [https://me](https://me)
 
-📖 I first learned to code at the beginning of __2019__ as I switched from Art to Computer Science in college, but I literally had no luck with this major 🤯 I could not have _hated_ coding more than I did 😕
+- 💬 Ask me about **Mathematics(TDA) and Data Science/Analytics**
 
-📖 Not until August __2021__ did I ACTUALLY start learning programming and coding in a way that worked out well for me 🧐 I've finally known how to learn coding by trial and error 🤓
+- 📫 How to reach me **effahbright.eb@gmail.com**
 
-📖 I officially became a Software Engineer in August __2022__ after managing to _get out of_ college 3 months before that 🙏🏻
+- 📄 Know about my experiences [https://me](https://me)
 
-📖 Now, I _enjoy_ learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job 🛠
+- ⚡ Fun fact **I think am too serious with my daily task**
 
-📖 __Self-learning__ is one of the most important and enjoyable parts of my life ☺️ I soon found out that GitHub is such a good place for me to record my never-ending learning journey from a technophobe to a technophile 🔥 To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful 📔
-
-<div align="center">
-    <img width="60%" src="./assets/quote2.jpeg">
-</div>
-
-<div>
-  <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
-</div>
-
-## 🛠 Languages and Tools
-📖 I have been learning and exploring these following tools and languages
-
-<div align="center"> 
-    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
-    <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
-    <code><a href="https://www.java.com" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
-    <code><a href="https://www.jenkins.io" title="Jenkins" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></code>
-    <code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
-    <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
-    <code><a href="https://developer.apple.com/swift/" title="Swift" target="_blank"><img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40"/></a></code>
-    <code><a href="https://flutter.dev/" title="Flutter" target="_blank"><img src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg" alt="flutter" width="40" height="40"/></a></code>
-    <code><a href="https://dart.dev/" title="Dart" target="_blank"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="dart" width="40" height="40"/></a></code>
-    <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
-    <code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
-    <code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
-    <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
-    <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a></code>
-    <code><a href="https://spring.io/" title="Spring" target="_blank"><img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="spring" width="40" height="40"/></a></code>
-    <code><a href="https://spring.io/projects/spring-boot" title="Spring Boot" target="_blank"><img src="https://www.adroitlogic.com/static/assets/images/icons/spring-boot.svg" alt="springboot" width="40" height="40"/></a></code>
-    <code><a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/></a></code>
-    <code><a href="https://www.scala-lang.org/" title="Scala" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala" width="40" height="40"/></a></code>
-    <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
-</div>
-
-## 📊 Stats
-<!-- Profile views
-<p> <img src="https://komarev.com/ghpvc/?username=KBryt" alt="ginny100" /> </p> -->
-
-<!-- Profile Visitors -->
-![](https://visitor-badge.laobi.icu/badge?page_id=ginny100.ginny100)
-
-<!-- LeetCode Stats Card -->
-<!-- <p align="center">
-  <a href="https://leetcode.com/ginny100" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/?username=ginny100&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
-  </a>
-</p> -->
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ginny100&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginny100&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/kaybriyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kaybriyt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bright-effah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bright-effah" height="30" width="40" /></a>
+<a href="https://kaggle.com/brighteffah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brighteffah" height="30" width="40" /></a>
+<a href="https://fb.com/efa.k.bryt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="efa.k.bryt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@effahbright17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@effahbright17" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ginny100&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<!-- GitHub Activity Graph -->
-![Ginny's github activity graph](https://activity-graph.herokuapp.com/graph?username=KBryt&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ginny100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kbryt&show_icons=true&locale=en&layout=compact" alt="kbryt" /></p>
