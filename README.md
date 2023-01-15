@@ -6,17 +6,17 @@ Hello, my name is Bright, Effah.
 # Thanks for stopping by! Welcome to my GitHub Profile! ✨
 
 
-<h3 align="center">A passionate TDA, Data Scientist and aspiring data expert from collection to consumption</h3>
+<h3 align="center">Am interested in Topological Data Analysis, Data Scientist and aspiring data expert from collection to consumption</h3>
 
 - 🌱 I’m currently advancing my **Software Engineering skills**
 
-- 👨‍💻 All of my projects are available at [https://me](https://me)
+- 👨‍💻 All of my projects are available at [link](https://me)
 
 - 💬 Ask me about **Economics, Mathematics and Data Science/Analytics**
 
 - 📫 How to reach me **effahbright.eb@gmail.com**
 
-- 📄 Know about my experiences [https://me](https://me)
+- 📄 Know about my experiences [link](https://me)
 
 - ⚡ Fun fact **I think am too serious with my daily task**
 
