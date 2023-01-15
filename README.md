@@ -59,7 +59,7 @@ Hello, my name is Bright, Effah.
 
 ## 📊 Stats
 <!-- Profile views
-<p> <img src="https://komarev.com/ghpvc/?username=ginny100" alt="ginny100" /> </p> -->
+<p> <img src="https://komarev.com/ghpvc/?username=KBryt" alt="ginny100" /> </p> -->
 
 <!-- Profile Visitors -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=ginny100.ginny100)
@@ -81,7 +81,7 @@ Hello, my name is Bright, Effah.
 </p>
 
 <!-- GitHub Activity Graph -->
-![Ginny's github activity graph](https://activity-graph.herokuapp.com/graph?username=ginny100&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![Ginny's github activity graph](https://activity-graph.herokuapp.com/graph?username=KBryt&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ginny100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
