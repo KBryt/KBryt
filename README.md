@@ -11,7 +11,7 @@ Hello, my name is Bright, Effah.
 
 - 👨‍💻 All of my projects are available at [https://me](https://me)
 
-- 💬 Ask me about **Mathematics(TDA) and Data Science/Analytics**
+- 💬 Ask me about **Mathematics(Topological Data Analysis) and Data Science/Analytics**
 
 - 📫 How to reach me **effahbright.eb@gmail.com**
 
