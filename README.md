@@ -3,7 +3,7 @@ Hello, my name is Bright, Effah.
 -->
 <h1 align="center">Hi 👋, I'm Bright Effah</h1>
 
-<h3 align="center">Big fun of Topological Data Analysis, Data Scientist and aspiring data expert from collection to consumption</h3>
+<h3 align="center">Big fun of Topological Data Analysis, Data Science and aspiring data expert from collection to consumption</h3>
 
 - 🌱 I’m currently advancing my **Software Engineering skills**
 
