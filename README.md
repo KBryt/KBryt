@@ -11,8 +11,6 @@ Hello, my name is Bright, Effah.
 
 - 💬 Ask me about **Economics, Mathematics and Data Science/Analytics**
 
-- 📫 How to reach me **effahbright.eb@gmail.com**
-
 - 📄 Know about my experiences [link](https://me)
 
 - ⚡ Fun fact **I think am too serious with my daily task**
