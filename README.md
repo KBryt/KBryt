@@ -11,7 +11,7 @@ Hello, my name is Bright, Effah.
 
 - 💬 Ask me about **Economics, Mathematics and Data Science/Analytics**
 
-- 📄 Know about my experiences [link](https://me)
+- 📄 Know about my experiences [link](https://kbryt.github.io/portfolio/)
 
 - ⚡ Fun fact **I think am too serious with my daily task**
 
