@@ -12,7 +12,6 @@ Hello, my name is Bright, Effah.
 - 💬 Ask me about **Economics, Mathematics and Data Science/Analytics**
 
 - 📄 Know about my experiences [link](https://kbryt.github.io/portfolio/)
-- 
 ## Checkout `lux` an open source vitualization library here to help you on real time streaming
 
 ![1686582134467](https://github.com/KBryt/KBryt/assets/99838742/0e506524-112b-4b53-ac99-2caa458db06b)
